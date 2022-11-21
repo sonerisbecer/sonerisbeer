@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sonerisbeer | Soner İŞBECER Bilişim Teknolojileri Öğretmeniyim: www.sonerisbecer.com
+- 👋 Hi, I’m @sonerisbeer | Soner İŞBECER Bilişim Teknolojileri: www.sonerisbecer.com
 - 👀 I’m interested in PHP.
 - 🌱 I’m currently learning C#.
 
