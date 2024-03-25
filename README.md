@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sonerisbeer | Soner İŞBECER Bilişim Teknolojileri: www.sonerisbecer.com
-- 👀 I’m interested in PHP.
-- 🌱 I’m currently learning C#.
+- 👋 Hi, I’m @sonerisbecer | Soner İŞBECER Bilişim Teknolojileri: www.sonerisbecer.com
+- 👀 I’m interested in PHP, CSS, HTML5 and JQuery.
+- 🌱 I’m currently learning Python, Java and Mobile programming..
 
 
 <!---
